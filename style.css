@@ -5,3 +5,7 @@ body{
 h1{
   font-size: 35px;
 }
+
+.pops{
+  color: rgba(75, 41, 41, 0.548);
+}
